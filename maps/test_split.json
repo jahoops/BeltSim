@@ -1,0 +1,17 @@
+{
+  "width": 9,
+  "height": 5,
+  "tiles": [
+    { "x": 0, "y": 2, "type": "source", "dir": "E", "spawnEveryTicks": 1 },
+
+    { "x": 1, "y": 2, "type": "belt", "dir": "E" },
+    { "x": 2, "y": 2, "type": "splitter", "dirA": "E", "dirB": "S" },
+
+    { "x": 3, "y": 2, "type": "belt", "dir": "E" },
+    { "x": 4, "y": 2, "type": "belt", "dir": "E" },
+    { "x": 5, "y": 2, "type": "sink", "dir": "E" },
+
+    { "x": 2, "y": 3, "type": "belt", "dir": "S" },
+    { "x": 2, "y": 4, "type": "sink", "dir": "S" }
+  ]
+}

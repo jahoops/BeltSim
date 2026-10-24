@@ -1,0 +1,55 @@
+{
+  "width": 8,
+  "height": 3,
+  "tiles": [
+    {
+      "x": 0,
+      "y": 1,
+      "type": "source",
+      "dir": "E",
+      "spawnEveryTicks": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "type": "belt",
+      "dir": "E"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "type": "sink",
+      "dir": "E"
+    }
+  ]
+}
